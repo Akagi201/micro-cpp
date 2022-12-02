@@ -13,4 +13,4 @@ micro services in cpp
 
 ## Refs
 
-* <https://github.com/TheLartians/ModernCppStarter>
+- <https://github.com/TheLartians/ModernCppStarter>
